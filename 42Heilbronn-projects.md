@@ -12,15 +12,15 @@ Here are all the projects I have completed during my incredible 42 journey. I th
 
 Project | Repo Link | Description
 --- | --- | ---
-![libft_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/libfte.png) | **[Libft](https://github.com/Grihladin/42HN-Libft)** | **Own library of reproduced common C functions and some additional ones**
-![ft_printf_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/ft_printfe.png) | **[Ft_printf](https://github.com/Grihladin/42HN-ft_printf)** | **Reproduction of the original printf function**
-![get_next_line_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/get_next_linee.png) | **[Get_next_line](https://github.com/Grihladin/42HN-get_next_line)** | **Function that returns the line with \n at the end**
-![pipex_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/pipexe.png) | **[Pipex](https://github.com/Grihladin/42HN-pipex)** | **Unix mechanism that allows the output of one process to be used as input for another**
-![push_swap_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/push_swape.png) | **[Push_swap](https://github.com/Grihladin/42HN-push_swap)** | **Data sorting algorithm project**
-![fract-ol_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/fract-ole.png) | **[Fract-ol](https://github.com/Grihladin/42HN-fractal)** | **This project is about creating graphically beautiful fractals**
-![philosophers_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/philosopherse.png) | **[Philosophers](https://github.com/Grihladin/42HN-philosophers)** | **Multithreading program**
-![minishell_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/minishelle.png) | **[Minishell](https://github.com/Grihladin/42HN-minishell)** | **This project is about creating a simple shell**
-![cub3d_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/minirte.png) | **[Cub3D](https://github.com/Grihladin/42HN-miniRT)** | **Ray casting 3D Game**
+![libft_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/libfte.png) | **[libft](https://github.com/Grihladin/42HN-Libft)** | **Own library of reproduced common C functions and some additional ones**
+![ft_printf_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/ft_printfe.png) | **[ft_printf](https://github.com/Grihladin/42HN-ft_printf)** | **Reproduction of the original printf function**
+![get_next_line_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/get_next_linee.png) | **[get_next_line](https://github.com/Grihladin/42HN-get_next_line)** | **Function that returns the line with \n at the end**
+![pipex_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/pipexe.png) | **[pipex](https://github.com/Grihladin/42HN-pipex)** | **Unix mechanism that allows the output of one process to be used as input for another**
+![push_swap_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/push_swape.png) | **[push_swap](https://github.com/Grihladin/42HN-push_swap)** | **Data sorting algorithm project**
+![fract-ol_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/fract-ole.png) | **[fract-ol](https://github.com/Grihladin/42HN-fractal)** | **This project is about creating graphically beautiful fractals**
+![philosophers_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/philosopherse.png) | **[philosophers](https://github.com/Grihladin/42HN-philosophers)** | **Multithreading program**
+![minishell_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/minishelle.png) | **[minishell](https://github.com/Grihladin/42HN-minishell)** | **This project is about creating a simple shell**
+![cub3d_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/minirte.png) | **[miniRT](https://github.com/Grihladin/42HN-miniRT)** | **My own raytracer**
 
 ### :gear: Projects in C++
 
@@ -36,11 +36,11 @@ Project | Repo Link | Description
 ![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_07** | **📅 Upcoming**
 ![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_08** | **📅 Upcoming**
 ![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_09** | **📅 Upcoming**
-![webserv_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/webserve.png) | **Webserv** | **📅 Upcoming**
+![webserv_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/webserve.png) | **webserv** | **📅 Upcoming**
 
 ### :whale: Docker Projects
 
 Project | Repo Link | Description
 --- | --- | ---
-![inception_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/inceptione.png) | **Inception** | **📅 Upcoming**
+![inception_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/inceptione.png) | **inception** | **📅 Upcoming**
 
