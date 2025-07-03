@@ -29,12 +29,12 @@ Project | Repo Link | Description
 ![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **[CPP_Module_01](https://github.com/Grihladin/42HN-CPP_Module_01)** | **Memory allocation, pointers to members, references, switch statement**
 ![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **[CPP_Module_02](https://github.com/Grihladin/42HN-CPP_Module_02)** | **Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form**
 ![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **[CPP_Module_03](https://github.com/Grihladin/42HN-CPP_Module_03)** | **Inheritance**
-![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_04** | **🚧 In Progress**
-![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_05** | **📅 Upcoming**
-![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_06** | **📅 Upcoming**
-![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_07** | **📅 Upcoming**
-![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_08** | **📅 Upcoming**
-![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppm.png) | **CPP_Module_09** | **📅 Upcoming**
+![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **CPP_Module_04** | **🚧 In Progress**
+![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **CPP_Module_05** | **📅 Upcoming**
+![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **CPP_Module_06** | **📅 Upcoming**
+![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **CPP_Module_07** | **📅 Upcoming**
+![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **CPP_Module_08** | **📅 Upcoming**
+![cpp_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) | **CPP_Module_09** | **📅 Upcoming**
 ![webserv_img](https://github.com/Grihladin/42-project-badges/blob/main/badges/webserve.png) | **webserv** | **📅 Upcoming**
 
 ### :whale: Docker Projects
