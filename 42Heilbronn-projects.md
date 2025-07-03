@@ -1,12 +1,10 @@
-# :desktop_computer: 42 Heilbronn :de:
+42 Heilbronn :de:
 
 ## :floppy_disk: My 42 Journey:
 
 Here are all the projects I have completed during my incredible 42 journey. I think all these tasks are incredibly well-crafted and it was a pleasure to work on them. I especially enjoyed the bonus tasks with their freedom to do whatever I wanted and their cool challenges. And group projects - this is what I enjoyed the most. The power of collaboration and the way we learned to deal with Git... I will remember it forever.
 
 ---
-
-## :file_cabinet: Projects:
 
 ### :hammer_and_wrench: Projects in C
 
