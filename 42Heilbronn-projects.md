@@ -19,7 +19,7 @@ Here are all the projects I have completed during my incredible 42 journey. I th
 
 ### :gear: Projects in C++
 
-[![CPP_Module_00](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/cpp00.png)](https://github.com/Grihladin/42HN-CPP_Module_00)
+[![CPP_Module_00](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/00.png)](https://github.com/Grihladin/42HN-CPP_Module_00)
 [![CPP_Module_01](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/cpp01.png)](https://github.com/Grihladin/42HN-CPP_Module_01)
 [![CPP_Module_02](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_02)
 [![CPP_Module_03](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_03)
