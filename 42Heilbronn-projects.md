@@ -24,11 +24,11 @@ Here are all the projects I have completed during my incredible 42 journey. I th
 [![CPP_Module_02](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP02.png)](https://github.com/Grihladin/42HN-CPP_Module_02)
 [![CPP_Module_03](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP03.png)](https://github.com/Grihladin/42HN-CPP_Module_03)
 ![CPP_Module_04](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP04.png)
-![CPP_Module_05](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP05.png.png)
-![CPP_Module_06](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP06.png.png)
-![CPP_Module_07](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP07.png.png)
-![CPP_Module_08](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP08.png.png)
-![CPP_Module_09](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP09.png.png)
+![CPP_Module_05](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP05.png)
+![CPP_Module_06](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP06.png)
+![CPP_Module_07](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP07.png)
+![CPP_Module_08](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP08.png)
+![CPP_Module_09](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP09.png)
 ![webserv](https://github.com/Grihladin/42-project-badges/blob/main/badges/webserve.png)
 
 ### :whale: Docker Projects
