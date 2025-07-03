@@ -19,16 +19,19 @@ Here are all the projects I have completed during my incredible 42 journey. I th
 
 ### :gear: Projects in C++
 
-[![CPP_Module_00](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_00) **CPP_Module_00**
-[![CPP_Module_01](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_01) **CPP_Module_01**
-[![CPP_Module_02](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_02) **CPP_Module_02**
-[![CPP_Module_03](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_03) **CPP_Module_03**
-![CPP_Module_04](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) **CPP_Module_04** 🚧
-![CPP_Module_05](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) **CPP_Module_05** 📅
-![CPP_Module_06](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) **CPP_Module_06** 📅
-![CPP_Module_07](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) **CPP_Module_07** 📅
-![CPP_Module_08](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) **CPP_Module_08** 📅
-![CPP_Module_09](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png) **CPP_Module_09** 📅
+[![CPP_Module_00](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_00)
+[![CPP_Module_01](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_01)
+[![CPP_Module_02](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_02)
+[![CPP_Module_03](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_03)
+![CPP_Module_04](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)
+![CPP_Module_05](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)
+![CPP_Module_06](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)
+![CPP_Module_07](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)
+![CPP_Module_08](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)
+![CPP_Module_09](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)
+
+### :globe_with_meridians: Web Server Projects
+
 ![webserv](https://github.com/Grihladin/42-project-badges/blob/main/badges/webserve.png)
 
 ### :whale: Docker Projects
