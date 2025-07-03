@@ -1,4 +1,4 @@
-# 42 Heilbronn ❤️:
+# 42 Heilbronn ❤️
 
 ## :floppy_disk: My 42 Journey:
 
