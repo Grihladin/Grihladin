@@ -19,66 +19,66 @@ Here are all the projects I have completed during my incredible 42 journey. I th
 
 ### :gear: Projects in C++
 
-<table>
-<tr>
-<td align="center">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td align="center" style="border: none; padding: 10px;">
 
 [![CPP_Module_00](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_00)<br>**CPP_Module_00**
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 [![CPP_Module_01](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_01)<br>**CPP_Module_01**
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 [![CPP_Module_02](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_02)<br>**CPP_Module_02**
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 [![CPP_Module_03](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)](https://github.com/Grihladin/42HN-CPP_Module_03)<br>**CPP_Module_03**
 
 </td>
 </tr>
-<tr>
-<td align="center">
+<tr style="border: none;">
+<td align="center" style="border: none; padding: 10px;">
 
 ![CPP_Module_04](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)<br>**CPP_Module_04** 🚧
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 ![CPP_Module_05](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)<br>**CPP_Module_05** 📅
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 ![CPP_Module_06](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)<br>**CPP_Module_06** 📅
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 ![CPP_Module_07](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)<br>**CPP_Module_07** 📅
 
 </td>
 </tr>
-<tr>
-<td align="center">
+<tr style="border: none;">
+<td align="center" style="border: none; padding: 10px;">
 
 ![CPP_Module_08](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)<br>**CPP_Module_08** 📅
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 ![CPP_Module_09](https://github.com/Grihladin/42-project-badges/blob/main/badges/cppe.png)<br>**CPP_Module_09** 📅
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 </td>
-<td align="center">
+<td align="center" style="border: none; padding: 10px;">
 
 </td>
 </tr>
