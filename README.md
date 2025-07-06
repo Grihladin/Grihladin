@@ -6,14 +6,14 @@
 
 
 # 🔭 What I'm Currently Working On
-## - 📚 Studying at **[42 Heilbronn](https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md)** - finishing the core curriculum
-## - 🚀 Running a startup: **[Knowely](https://knowley.de/)**
-## - 🇩🇪 Learning German
+<h2>- 📚 Studying at <strong><a href="https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md">42 Heilbronn</a></strong> - finishing the core curriculum</h2>
+<h2>- 🚀 Running a startup: <strong><a href="https://knowley.de/">Knowely</a></strong></h2>
+<h2>- 🇩🇪 Learning German</h2>
 
 # 🌱 What I'm Learning
-## - 🤖 **RAG (Retrieval-Augmented Generation)** systems development
-## - 🎨 **Generative AI** development
-## - 💼 **Business** development and entrepreneurship
+<h2>- 🤖 <strong>RAG (Retrieval-Augmented Generation)</strong> systems development</h2>
+<h2>- 🎨 <strong>Generative AI</strong> development</h2>
+<h2>- 💼 <strong>Business</strong> development and entrepreneurship</h2>
 
 
 # 💻 Tech Stack
@@ -66,14 +66,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=600&langs_count=8&title_size=20&text_size=24" width="700" height="350" alt="Top Languages"/>
 
 # 📫 How to Reach Me
-## - 💬 Always open to interesting conversations and collaborations!
-## - 💼 **[LinkedIn](https://www.linkedin.com/in/michael-ratke-0b3304303/)** - Feel free to connect.
-## - 📧 **Email: grihladin@gmail.com** - Reach out for collaborations.
+<h2>- 💬 Always open to interesting conversations and collaborations!</h2>
+<h2>- 💼 <strong><a href="https://www.linkedin.com/in/michael-ratke-0b3304303/">LinkedIn</a></strong> - Feel free to connect.</h2>
+<h2>- 📧 <strong>Email: grihladin@gmail.com</strong> - Reach out for collaborations.</h2>
 
 
 # ⚡ Fun Facts
-## - 🎵 I can play **Saxophone**, **Clarinet**, and **Flute**
-## - 🌍 Learning German while studying in Germany
+<h2>- 🎵 I can play <strong>Saxophone</strong>, <strong>Clarinet</strong>, and <strong>Flute</strong></h2>
+<h2>- 🌍 Learning German while studying in Germany</h2>
 
 ---
 ⭐️ From [Grihladin](https://github.com/Grihladin)
