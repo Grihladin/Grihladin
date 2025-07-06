@@ -1,4 +1,4 @@
-# :file_cabinet: 42Heilbronn projects
+# :file_cabinet: 42Heilbronn
 
 ### :hammer_and_wrench: Projects in C
 
