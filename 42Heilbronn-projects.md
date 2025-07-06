@@ -26,7 +26,7 @@
 ![CPP_Module_09](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP09.png)
 ![webserv](https://github.com/Grihladin/42-project-badges/blob/main/badges/webserve.png)
 
-### :whale: Docker Projects
+### :whale: Docker Project
 
 ![inception](https://github.com/Grihladin/42-project-badges/blob/main/badges/inceptione.png)
 
