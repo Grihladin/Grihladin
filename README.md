@@ -62,11 +62,13 @@
     </a>
 </p>
 
+## 📊 GitHub Language Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
 
 ## 📫 How to Reach Me
+- 💬 Always open to interesting conversations and collaborations!
 - 💼 **[LinkedIn](https://www.linkedin.com/in/michael-ratke-0b3304303/)** - Feel free to connect.
 - 📧 **Email: grihladin@gmail.com** - Reach out for collaborations.
-- 💬 Always open to interesting conversations and collaborations!
 
 
 ## ⚡ Fun Facts
