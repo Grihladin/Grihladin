@@ -1,22 +1,26 @@
-# Hi there 👋, I'm Michael
+<p style="font-size: 2.0em; font-weight: bold;">Hi there 👋, I'm Michael</p>
 
-## Software Engineer | 42 Student | Entrepreneur
+<p style="font-size: 1.5em; font-weight: bold;">Software Engineer | 42 Student | Entrepreneur</p>
 
-### Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.
-
-
-# 🔭 What I'm Currently Working On
-- ## 📚 Studying at [42 Heilbronn](https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md) - finishing the core curriculum
-- ## 🚀 Running a startup: [Knowely](https://knowley.de/)
-- ## 🇩🇪 Learning German
-
-# 🌱 What I'm Learning
-- ## 🤖 RAG (Retrieval-Augmented Generation) systems development
-- ## 🎨 Generative AI development
-- ## 💼 Business development and entrepreneurship
+<p style="font-size: 1.2em;">Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.</p>
 
 
-# 💻 Tech Stack
+<p style="font-size: 1.7em; font-weight: bold;">🔭 What I'm Currently Working On</p>
+<ul>
+  <li><a href="https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md">📚 Studying at <strong>42 Heilbronn</strong></a> - finishing the core curriculum</li>
+  <li><a href="https://knowley.de/">🚀 Running a startup: <strong>Knowely</strong></a></li>
+  <li>🇩🇪 Learning German</li>
+</ul>
+
+<p style="font-size: 1.7em; font-weight: bold;">🌱 What I'm Learning</p>
+<ul>
+  <li>🤖 <strong>RAG (Retrieval-Augmented Generation)</strong> systems development</li>
+  <li>🎨 <strong>Generative AI</strong> development</li>
+  <li>💼 <strong>Business</strong> development and entrepreneurship</li>
+</ul>
+
+
+<p style="font-size: 1.7em; font-weight: bold;">💻 Tech Stack</p>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -62,17 +66,21 @@
     </a>
 </p>
 
-# 📊 GitHub Language Stats
+<p style="font-size: 1.7em; font-weight: bold;">📊 GitHub Language Stats</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=600&langs_count=8&title_size=20&text_size=24" width="700" height="350" alt="Top Languages"/>
 
-# 📫 How to Reach Me
-- ### 💬 Always open to interesting conversations and collaborations!
-- ### 💼 [LinkedIn](https://www.linkedin.com/in/michael-ratke-0b3304303/) - Feel free to connect.
-- ### 📧 Email: grihladin@gmail.com - Reach out for collaborations.
+<p style="font-size: 1.7em; font-weight: bold;">📫 How to Reach Me</p>
+<ul>
+  <li>💬 Always open to interesting conversations and collaborations!</li>
+  <li><strong><a href="https://www.linkedin.com/in/michael-ratke-0b3304303/">💼 LinkedIn</a></strong> - Feel free to connect.</li>
+  <li>📧 <strong>Email: grihladin@gmail.com</strong> - Reach out for collaborations.</li>
+</ul>
 
 
-# ⚡ Fun Facts
-- ### 🎵 I can play Saxophone, Clarinet, and Flute
-- ### 🌍 Learning German while studying in Germany
+<p style="font-size: 1.7em; font-weight: bold;">⚡ Fun Facts</p>
+<ul>
+  <li>🎵 I can play <strong>Saxophone</strong>, <strong>Clarinet</strong>, and <strong>Flute</strong></li>
+  <li>🌍 Learning German while studying in Germany</li>
+</ul>
 
 ⭐️ From [Grihladin](https://github.com/Grihladin)
