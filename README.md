@@ -1,25 +1,19 @@
-<div style="font-size: 3.0em; font-weight: bold;">
-Hi there 👋, I'm Michael
-</div>
+# Hi there 👋, I'm Michael
 
-<div style="font-size: 2.4em; font-weight: bold;">
-Software Engineer | 42 Student | Entrepreneur
-</div>
+## Software Engineer | 42 Student | Entrepreneur
 
-<div style="font-size: 2.0em;">
-Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.
-</div>
+### Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.
 
 
 # 🔭 What I'm Currently Working On
-<p style="font-size: 3em; font-weight: bold;">- 📚 Studying at <strong><a href="https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md">42 Heilbronn</a></strong> - finishing the core curriculum</p>
-<p style="font-size: 3em; font-weight: bold;">- 🚀 Running a startup: <strong><a href="https://knowley.de/">Knowely</a></strong></p>
-<p style="font-size: 3em; font-weight: bold;">- 🇩🇪 Learning German</p>
+- ## 📚 Studying at [42 Heilbronn](https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md) - finishing the core curriculum
+- ## 🚀 Running a startup: [Knowely](https://knowley.de/)
+- ## 🇩🇪 Learning German
 
 # 🌱 What I'm Learning
-<p style="font-size: 3em; font-weight: bold;">- 🤖 <strong>RAG (Retrieval-Augmented Generation)</strong> systems development</p>
-<p style="font-size: 3em; font-weight: bold;">- 🎨 <strong>Generative AI</strong> development</p>
-<p style="font-size: 3em; font-weight: bold;">- 💼 <strong>Business</strong> development and entrepreneurship</p>
+- ## 🤖 RAG (Retrieval-Augmented Generation) systems development
+- ## 🎨 Generative AI development
+- ## 💼 Business development and entrepreneurship
 
 
 # 💻 Tech Stack
@@ -72,14 +66,14 @@ Passionate developer studying at 42 Heilbronn while building innovative AI solut
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=600&langs_count=8&title_size=20&text_size=24" width="700" height="350" alt="Top Languages"/>
 
 # 📫 How to Reach Me
-<p style="font-size: 3em; font-weight: bold;">- 💬 Always open to interesting conversations and collaborations!</p>
-<p style="font-size: 3em; font-weight: bold;">- 💼 <strong><a href="https://www.linkedin.com/in/michael-ratke-0b3304303/">LinkedIn</a></strong> - Feel free to connect.</p>
-<p style="font-size: 3em; font-weight: bold;">- 📧 <strong>Email: grihladin@gmail.com</strong> - Reach out for collaborations.</p>
+- ### 💬 Always open to interesting conversations and collaborations!
+- ### 💼 [LinkedIn](https://www.linkedin.com/in/michael-ratke-0b3304303/) - Feel free to connect.
+- ### 📧 Email: grihladin@gmail.com - Reach out for collaborations.
 
 
 # ⚡ Fun Facts
-<p style="font-size: 3em; font-weight: bold;">- 🎵 I can play <strong>Saxophone</strong>, <strong>Clarinet</strong>, and <strong>Flute</strong></p>
-<p style="font-size: 3em; font-weight: bold;">- 🌍 Learning German while studying in Germany</p>
+- ### 🎵 I can play Saxophone, Clarinet, and Flute
+- ### 🌍 Learning German while studying in Germany
 
 ---
 ⭐️ From [Grihladin](https://github.com/Grihladin)
