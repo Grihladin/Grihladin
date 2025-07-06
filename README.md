@@ -1,8 +1,14 @@
-<p style="font-size: 3em; font-weight: bold;">Hi there 👋, I'm Michael</p>
+<div style="font-size: 3.0em; font-weight: bold;">
+Hi there 👋, I'm Michael
+</div>
 
-<p style="font-size: 1.5em; font-weight: bold;">Software Engineer | 42 Student | Entrepreneur</p>
+<div style="font-size: 2.4em; font-weight: bold;">
+Software Engineer | 42 Student | Entrepreneur
+</div>
 
-<p style="font-size: 1.2em;">Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.</p>
+<div style="font-size: 2.0em;">
+Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.
+</div>
 
 
 # 🔭 What I'm Currently Working On
