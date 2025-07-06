@@ -7,7 +7,7 @@
 
 # 🔭 What I'm Currently Working On
 - ### 🚀 Running a startup: [Knowely](https://knowley.de/)
-- ### 📚 Studying at [42 Heilbronn](https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md)
+- ### 📚 Studying at **42Heilbronn** ([checkout my projects](https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md))
 - ### 🇩🇪 Learning German
 
 # 🌱 What I'm Learning
