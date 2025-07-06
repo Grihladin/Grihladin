@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Michael
+<p style="font-size: 3em; font-weight: bold;">Hi there 👋, I'm Michael</p>
 
-# **Software Engineer | 42 Student | Entrepreneur**
+<p style="font-size: 1.5em; font-weight: bold;">Software Engineer | 42 Student | Entrepreneur</p>
 
-## Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.
+<p style="font-size: 1.2em;">Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.</p>
 
 
 # 🔭 What I'm Currently Working On
