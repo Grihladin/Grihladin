@@ -63,7 +63,7 @@
 </p>
 
 ## 📊 GitHub Language Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=600&langs_count=8&title_size=20&text_size=16" width="700" height="350" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=800&langs_count=9&title_size=28&text_size=20" width="800" height="400" alt="Top Languages"/>
 
 ## 📫 How to Reach Me
 - 💬 Always open to interesting conversations and collaborations!
