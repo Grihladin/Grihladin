@@ -1,7 +1,5 @@
 # :file_cabinet: 42Heilbronn projects
 
----
-
 ### :hammer_and_wrench: Projects in C
 
 [![libft](https://github.com/Grihladin/42-project-badges/blob/main/badges/libfte.png)](https://github.com/Grihladin/42HN-libft)
