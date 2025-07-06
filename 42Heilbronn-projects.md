@@ -1,6 +1,6 @@
 # :file_cabinet: 42Heilbronn
 
-### :hammer_and_wrench: Projects in C
+### :hammer_and_wrench: My projects in C
 
 [![libft](https://github.com/Grihladin/42-project-badges/blob/main/badges/libfte.png)](https://github.com/Grihladin/42HN-libft)
 [![ft_printf](https://github.com/Grihladin/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/Grihladin/42HN-ft-printf)
@@ -12,7 +12,7 @@
 [![minishell](https://github.com/Grihladin/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/Grihladin/42HN-minishell)
 [![miniRT](https://github.com/Grihladin/42-project-badges/blob/main/badges/minirte.png)](https://github.com/Grihladin/42HN-miniRT)
 
-### :gear: Projects in C++
+### :gear: My projects in C++
 
 [![CPP_Module_00](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP00.png)](https://github.com/Grihladin/42HN-CPP-module-00)
 [![CPP_Module_01](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP01.png)](https://github.com/Grihladin/42HN-CPP-module-01)
@@ -26,7 +26,7 @@
 ![CPP_Module_09](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP09.png)
 ![webserv](https://github.com/Grihladin/42-project-badges/blob/main/badges/webserve.png)
 
-### :whale: Docker Project
+### :whale: My Docker project
 
 ![inception](https://github.com/Grihladin/42-project-badges/blob/main/badges/inceptione.png)
 
