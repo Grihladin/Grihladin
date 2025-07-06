@@ -1,22 +1,22 @@
 # Hi there 👋, I'm Michael
 
-## **Software Engineer | 42 Student | Entrepreneur**
+# **Software Engineer | 42 Student | Entrepreneur**
 
-### Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.
-
-
-## 🔭 What I'm Currently Working On
-- 📚 Studying at **[42 Heilbronn](https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md)** - finishing the core curriculum
-- 🚀 Running a startup: **[Knowely](https://knowley.de/)**
-- 🇩🇪 Learning German
-
-## 🌱 What I'm Learning
-- 🤖 **RAG (Retrieval-Augmented Generation)** systems development
-- 🎨 **Generative AI** development
-- 💼 **Business** development and entrepreneurship
+## Passionate developer studying at 42 Heilbronn while building innovative AI solutions. Currently focusing on RAG systems and generative AI technologies.
 
 
-## 💻 Tech Stack
+# 🔭 What I'm Currently Working On
+## - 📚 Studying at **[42 Heilbronn](https://github.com/Grihladin/Grihladin/blob/main/42Heilbronn-projects.md)** - finishing the core curriculum
+## - 🚀 Running a startup: **[Knowely](https://knowley.de/)**
+## - 🇩🇪 Learning German
+
+# 🌱 What I'm Learning
+## - 🤖 **RAG (Retrieval-Augmented Generation)** systems development
+## - 🎨 **Generative AI** development
+## - 💼 **Business** development and entrepreneurship
+
+
+# 💻 Tech Stack
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -62,18 +62,18 @@
     </a>
 </p>
 
-## 📊 GitHub Language Stats
+# 📊 GitHub Language Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=600&langs_count=8&title_size=20&text_size=24" width="700" height="350" alt="Top Languages"/>
 
-## 📫 How to Reach Me
-- 💬 Always open to interesting conversations and collaborations!
-- 💼 **[LinkedIn](https://www.linkedin.com/in/michael-ratke-0b3304303/)** - Feel free to connect.
-- 📧 **Email: grihladin@gmail.com** - Reach out for collaborations.
+# 📫 How to Reach Me
+## - 💬 Always open to interesting conversations and collaborations!
+## - 💼 **[LinkedIn](https://www.linkedin.com/in/michael-ratke-0b3304303/)** - Feel free to connect.
+## - 📧 **Email: grihladin@gmail.com** - Reach out for collaborations.
 
 
-## ⚡ Fun Facts
-- 🎵 I can play **Saxophone**, **Clarinet**, and **Flute**
-- 🌍 Learning German while studying in Germany
+# ⚡ Fun Facts
+## - 🎵 I can play **Saxophone**, **Clarinet**, and **Flute**
+## - 🌍 Learning German while studying in Germany
 
 ---
 ⭐️ From [Grihladin](https://github.com/Grihladin)
