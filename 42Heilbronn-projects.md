@@ -18,7 +18,7 @@
 [![CPP_Module_01](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP01.png)](https://github.com/Grihladin/42HN-CPP-module-01)
 [![CPP_Module_02](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP02.png)](https://github.com/Grihladin/42HN-CPP-module-02)
 [![CPP_Module_03](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP03.png)](https://github.com/Grihladin/42HN-CPP-module-03)
-![CPP_Module_04](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP04.png)
+[![CPP_Module_04](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP04.png)](https://github.com/Grihladin/42HN-CPP_module_04)
 ![CPP_Module_05](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP05.png)
 ![CPP_Module_06](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP06.png)
 ![CPP_Module_07](https://github.com/Grihladin/42-project-badges/blob/main/badges/numbered_cpps/CPP07.png)
