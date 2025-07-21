@@ -37,7 +37,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/></a><a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
 </p>
 
-# 📊 GitHub Language Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grihladin&layout=compact&theme=dark&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&card_width=600&langs_count=8&title_size=20&text_size=24" width="700" height="350" alt="Top Languages"/>
 
 # 📫 How to Reach Me
