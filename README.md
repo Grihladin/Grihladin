@@ -11,9 +11,9 @@
 - ### 🇩🇪 Learning German
 
 # 🌱 What I'm Learning
-- ### 🤖 RAG (Retrieval-Augmented Generation) systems development
-- ### 🎨 Generative AI development
-- ### 💼 Business development and entrepreneurship
+- ### RAG (Retrieval-Augmented Generation) systems development
+- ### Generative AI development
+- ### Business development and entrepreneurship
 
 
 # 💻 Tech Stack
