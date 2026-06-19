@@ -28,6 +28,11 @@ My current interests include:
 
 **Tools:** Docker, Git, GitHub, Linux
 
+## Education
+
+- [42 Heilbronn](https://www.42heilbronn.de/) — Computer Science and Software Engineering
+- Bachelor's Degree in Applied Mathematics — MISIS University, Moscow
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/michael-ratke-0b3304303/)
