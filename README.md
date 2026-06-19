@@ -31,7 +31,7 @@ My current interests include:
 ## Education
 
 - [42 Heilbronn](https://www.42heilbronn.de/) — Computer Science and Software Engineering
-- Bachelor's Degree in Applied Mathematics — MISIS University, Moscow
+- Bachelor's Degree in Applied Mathematics — [MISIS](https://en.misis.ru/), Moscow
 
 ## Contact
 
